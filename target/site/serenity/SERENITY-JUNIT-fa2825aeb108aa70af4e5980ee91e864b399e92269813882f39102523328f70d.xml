@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Product Search" skipped="0" tests="2" time="14.16" timestamp="2026-08-16 04:10:39"><testcase name="Successful search for existing product"/><testcase name="Search for non-existent product"/></testsuite>
